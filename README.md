@@ -1,4 +1,4 @@
-# Vanishing Tic Tac Toe (Java)
+# Infinite Tic Tac Toe (Java)
 
 A fun twist on the classic Tic Tac Toe game! In this version, **older moves vanish automatically** after a fixed number of turns, making the game dynamic and more strategic.
 
@@ -47,3 +47,4 @@ javac VanishingTicTacToe.java
 3. Run the game:
 
 java VanishingTicTacToe
+
