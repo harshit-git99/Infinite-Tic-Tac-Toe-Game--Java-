@@ -1,0 +1,1 @@
+This project is pure Java (console-based) and uses only standard Java libraries, there are no external dependencies used.
